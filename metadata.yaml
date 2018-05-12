@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34745'
     url: http://www.gutenberg.org/2009/agents/34745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30670#Mr.-Chipfellow-s-Jackpot
 gutenberg_issued: '2009-12-13'
 gutenberg_type: Text
 identifiers:
